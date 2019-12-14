@@ -1,3 +1,3 @@
-# jekyll-true-minimal
-Minimal and ascetic theme for jekyll.
-Live demo: https://cyevgeniy.github.io/jekyll-true-minimal/
+# Michelle Nunez
+Mini Project 3 Assignment for IS117
+Link to website: [mpnunez5.github.io](https://mpnunez5.github.io)
