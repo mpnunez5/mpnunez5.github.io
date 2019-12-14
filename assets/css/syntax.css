@@ -1,3 +1,8 @@
 body {
     padding-top: 5rem;
 }
+
+.jumbotron {
+    background-image: href = "/assets/images/michellenunez.jpeg";
+    background-size: cover;
+    height: 100%;}
